@@ -19,5 +19,12 @@
     "twitter": "dmytrobol",
     "picture": "/authors/dmytrobol.png",
     "bio": "JavaScript Lad, Movie buff and coder interested in everything web related"
+  },
+   {
+    "username": "vihardesu",
+    "name": "Vihar Desu",
+    "twitter": "vihardesu",
+    "picture": "/authors/vihardesu.png",
+    "bio": "Computer Science | Biostatistics | Finance"
   }
 ]
